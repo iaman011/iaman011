@@ -10,82 +10,42 @@ My goal is to solve real-world problems by merging clean code, smart design, and
 
 ### 🛠️ Tech Stack
 
-#### 🧠 Programming Languages  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-</div>
-
-#### 🌐 Frontend  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React.js" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-  <img width="10"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="30" alt="Tailwind CSS"/>
-  <img width="10"/>
-  <img src="https://img.shields.io/badge/ShadCN_UI-black?style=flat&logo=none" height="30" alt="ShadCN UI"/>
-</div>
-
-#### 🧩 Backend & Auth  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
-  <img width="10"/>
-  <img src="https://img.shields.io/badge/REST%20API-blue?style=flat" height="30" alt="RESTful APIs" />
-  <img width="10"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=flat" height="30" alt="JWT" />
-  <img width="10"/>
-  <img src="https://img.shields.io/badge/NextAuth.js-grey?style=flat&logo=nextdotjs" height="30" alt="NextAuth.js" />
-</div>
-
-#### 🛢️ Databases & ORM  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img width="10"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat" height="30" alt="Mongoose" />
-  <img width="10"/>
-  <img src="https://img.shields.io/badge/Prisma%20ORM-2D3748?style=flat&logo=prisma&logoColor=white" height="30" alt="Prisma ORM" />
-</div>
-
-#### 🧰 Dev Tools & Platforms  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img width="10"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="30" alt="Postman" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
-  <img width="10"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="30" alt="Vercel" />
-  <img width="10"/>
-  <img src="https://img.shields.io/badge/Clerk.dev-purple?style=flat&logo=clerk&logoColor=white" height="30" alt="Clerk" />
-</div>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=none)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs)
+![RESTful API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk.dev-purple?style=for-the-badge&logo=clerk&logoColor=white)
 
 ---
 
-### 🚀 Projects & Demos
+### 🚀 Featured Projects
 
-- 🧠 [AI Finance Platform](https://ai-finance-platform-iaman011s-projects.vercel.app/) – AI-driven receipt scanning & finance automation  
-- 🛍️ [E-Commerce Web App](https://e-commerce-nextjs-iaman011s-projects.vercel.app/) – Stripe-powered store with lightning-fast UX  
-- 🚗 [Uber Clone Backend](https://github.com/iaman011/Uber-Clone-App) – Node.js backend with JWT auth & MongoDB  
-- 🤖 [AI Code Reviewer](https://github.com/iaman011/AI-Powered-Code-Reviewer) – Code review tool with Google Gemini AI  
-- 📝 [Paste React App](https://paste-app-di7v-iaman011s-projects.vercel.app/) – Rich-text editor with Redux & Tailwind
+- 🧠 [AI Finance Platform](https://ai-finance-platform-iaman011s-projects.vercel.app/) – AI-powered receipt & transaction automation  
+- 🛍️ [E-Commerce Web App](https://e-commerce-nextjs-iaman011s-projects.vercel.app/) – Scalable, Stripe-integrated frontend  
+- 🚗 [Uber Clone Backend](https://github.com/iaman011/Uber-Clone-App) – Secure, role-based Express backend  
+- 🤖 [AI Code Reviewer](https://github.com/iaman011/AI-Powered-Code-Reviewer) – Gemini AI-based bug detection tool  
+- 📝 [Paste App](https://paste-app-di7v-iaman011s-projects.vercel.app/) – Rich-text editor with Redux & local persistence
 
 ---
 
@@ -98,19 +58,23 @@ My goal is to solve real-world problems by merging clean code, smart design, and
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let’s Connect
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/iaman011/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://github.com/iaman011" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="mailto:iaman.singh011@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="35" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://aman-portfolio-iaman011s-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="35" alt="Portfolio on Vercel"/>
   </a>
-</div>
+</p>
+
