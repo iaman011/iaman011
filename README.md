@@ -60,22 +60,9 @@ My goal is to solve real-world problems by merging clean code, smart design, and
 
 ### 📫 Let’s Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/iaman011/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/iaman011" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="35" alt="GitHub Light"/>
-  </a>
-  &nbsp;
-  <a href="mailto:iaman.singh011@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="35" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://aman-portfolio-iaman011s-projects.vercel.app/" target="_blank">
-    <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="35" alt="Portfolio on Vercel"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iaman011-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iaman011/)
+[![GitHub](https://img.shields.io/badge/GitHub-iaman011-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iaman011)
+[![Gmail](https://img.shields.io/badge/Gmail-iaman.singh011@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iaman.singh011@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-portfolio-iaman011s-projects.vercel.app/)
 
 
