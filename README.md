@@ -13,7 +13,9 @@ Currently exploring AI, serverless tools, and next-gen dev stacks. Let’s conne
   <img src="https://komarev.com/ghpvc/?username=iaman011&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/iaman011?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/iaman011?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/repos/iaman011?label=Repos&style=flat-square&color=orange" alt="Public Repos" />
+  <!-- 🗂️ Repo Count Badge -->
+![Public Repos](https://img.shields.io/badge/Public%20Repos-17-orange?style=flat-square)
+
 </p>
 
 ---
