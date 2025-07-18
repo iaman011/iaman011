@@ -7,16 +7,13 @@ Currently exploring AI, serverless tools, and next-gen dev stacks. Let’s conne
 </p>
 
 
-<!-- 🔥 BADGES START HERE -->
+<!-- 🔥 USEFUL GITHUB BADGES -->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=iaman011&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/iaman011?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/iaman011?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/repos/iaman011?style=flat-square&color=orange" alt="Public Repositories" />
-  <img src="https://img.shields.io/github/package-json/v/iaman011?style=flat-square&color=purple" alt="Latest Package Version" />
-  <img src="https://img.shields.io/github/workflow/status/iaman011/Portfolio/Deploy?label=Deploy%20Status&style=flat-square&logo=github-actions&color=brightgreen" alt="CI/CD Workflow" />
-  <img src="https://img.shields.io/github/member-since/iaman011?style=flat-square&color=success" alt="Member Since" />
+  <img src="https://img.shields.io/github/repos/iaman011?label=Repos&style=flat-square&color=orange" alt="Public Repos" />
 </p>
 
 ---
