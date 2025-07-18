@@ -1,10 +1,5 @@
-<h2 align="left">Hi 👋! I'm Aman Singh — a Full-Stack Developer & Automation Enthusiast from <img src="https://flagcdn.com/w40/in.png" width="22" alt="India"/> </h2>
-
-
-<p>
-I build high-performance web apps, automate workflows, and love crafting elegant UIs backed by powerful APIs.  
-Currently exploring AI, serverless tools, and next-gen dev stacks. Let’s connect and build something awesome!
-</p>
+<h1 align="center">Hi 👋! I'm Aman Singh</h1>
+<h3 align="center">A passionate Full-Stack Developer & Automation Enthusiast from <img src="https://flagcdn.com/w40/in.png" width="22" alt="India"/> </h3>
 
 
 <!-- 🔥 USEFUL GITHUB BADGES -->
