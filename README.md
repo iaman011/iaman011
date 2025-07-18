@@ -1,9 +1,22 @@
-<h2 align="left">Hi 👋! I'm Aman Singh — a Full-Stack Developer & Automation Enthusiast from <img src="https://flagcdn.com/w40/in.png" width="22"/> India</h2>
+<h2 align="left">Hi 👋! I'm Aman Singh — a Full-Stack Developer & Automation Enthusiast from <img src="https://flagcdn.com/w40/in.png" width="22" alt="India"/> </h2>
 
 
 <p>
 I build high-performance web apps, automate workflows, and love crafting elegant UIs backed by powerful APIs.  
 Currently exploring AI, serverless tools, and next-gen dev stacks. Let’s connect and build something awesome!
+</p>
+
+
+<!-- 🔥 BADGES START HERE -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=iaman011&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/iaman011?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/iaman011?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/repos/iaman011?style=flat-square&color=orange" alt="Public Repositories" />
+  <img src="https://img.shields.io/github/package-json/v/iaman011?style=flat-square&color=purple" alt="Latest Package Version" />
+  <img src="https://img.shields.io/github/workflow/status/iaman011/Portfolio/Deploy?label=Deploy%20Status&style=flat-square&logo=github-actions&color=brightgreen" alt="CI/CD Workflow" />
+  <img src="https://img.shields.io/github/member-since/iaman011?style=flat-square&color=success" alt="Member Since" />
 </p>
 
 ---
@@ -55,9 +68,6 @@ Currently exploring AI, serverless tools, and next-gen dev stacks. Let’s conne
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iaman011&layout=compact&card_width=400&theme=dracula&hide_border=false" height="150" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iaman011&style=flat-square&color=blue" alt="GitHub Profile Views" />
-</p>
 
 ---
 
