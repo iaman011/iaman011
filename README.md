@@ -74,7 +74,7 @@ My goal is to solve real-world problems by merging clean code, smart design, and
   </a>
   &nbsp;
   <a href="https://aman-portfolio-iaman011s-projects.vercel.app/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vercel_logo_white.svg" width="35" alt="Vercel Portfolio" style="background-color:black; padding:5px; border-radius:5px;"/>
+    <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="35" alt="Portfolio on Vercel"/>
   </a>
 </p>
 
