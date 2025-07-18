@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋! I'm Aman Singh</h1>
 <h3 align="center">A passionate Full-Stack Developer & Automation Enthusiast from <img src="https://flagcdn.com/w40/in.png" width="22" alt="India"/> </h3>
 
+<!-- 🎯 GitHub Profile Stats & Badges -->
 
-<!-- 🔥 USEFUL GITHUB BADGES -->
-
-<p align="left">
+<p align="center">
+  <!-- Profile Badges -->
   <img src="https://komarev.com/ghpvc/?username=iaman011&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/iaman011?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/iaman011?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
-  <!-- 🗂️ Repo Count Badge -->
-![Public Repos](https://img.shields.io/badge/Public%20Repos-17-orange?style=flat-square)
-
 </p>
+
+<p align="center">
+  <!-- Language & Streak Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaman011&layout=compact&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iaman011&theme=dracula&hide_border=true" height="150" />
+</p>
+
 
 ---
 
