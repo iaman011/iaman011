@@ -66,7 +66,7 @@ My goal is to solve real-world problems by merging clean code, smart design, and
   </a>
   &nbsp;
   <a href="https://github.com/iaman011" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="35" alt="GitHub Light"/>
   </a>
   &nbsp;
   <a href="mailto:iaman.singh011@gmail.com" target="_blank">
@@ -74,7 +74,8 @@ My goal is to solve real-world problems by merging clean code, smart design, and
   </a>
   &nbsp;
   <a href="https://aman-portfolio-iaman011s-projects.vercel.app/" target="_blank">
-    <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="35" alt="Portfolio on Vercel"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vercel_logo_white.svg" width="35" alt="Vercel Portfolio" style="background-color:black; padding:5px; border-radius:5px;"/>
   </a>
 </p>
+
 
