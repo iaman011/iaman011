@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! I'm Aman Singh — a Full-Stack Developer & Automation Enthusiast from 🇮🇳 India</h2>
+<h2 align="left">Hi 👋! I'm Aman Singh — a Full-Stack Developer & Automation Enthusiast from <img src="https://flagcdn.com/w40/in.png" width="22"/> India</h2>
+
 
 <p>
 I build high-performance web apps, automate workflows, and love crafting elegant UIs backed by powerful APIs.  
