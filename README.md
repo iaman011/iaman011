@@ -57,6 +57,7 @@
 - 🤖 [AI Code Reviewer](https://github.com/iaman011/AI-Powered-Code-Reviewer) – Gemini AI-based bug detection tool  
 - 📝 [Paste App](https://paste-app-di7v-iaman011s-projects.vercel.app/) – Rich-text editor with Redux & local persistence
 
+<!--
 ---
 
 ### 📊 GitHub Stats
@@ -65,6 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iaman011&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iaman011&layout=compact&card_width=400&theme=dracula&hide_border=false" height="150" />
 </div>
+-->
 
 
 ---
