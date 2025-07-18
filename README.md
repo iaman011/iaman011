@@ -13,14 +13,14 @@
 <p align="center">
   <!-- Language & Streak Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaman011&layout=compact&card_width=400&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iaman011&theme=dracula&hide_border=true" height="150" />
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=iaman011&theme=dracula&hide_border=true" height="150" /> -->
 </p>
 
-<!-- Public Repo Highlight -->
+<!-- Public Repo Highlight 
 <p align="center">
   <img src="https://img.shields.io/badge/Public%20Repos-17-orange?style=for-the-badge&logo=github" alt="Total Public Repos" />
 </p>
-
+-->
 
 ---
 
