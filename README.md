@@ -1,9 +1,8 @@
-<h2 align="left">Hi 👋! My name is Aman Singh and I'm a Full-Stack Developer & Automation Enthusiast from India 🇮🇳</h2>
+<h2 align="left">Hi 👋! I'm Aman Singh — a Full-Stack Developer & Automation Enthusiast from 🇮🇳 India</h2>
 
 <p>
-I’m a passionate and detail-oriented Computer Science undergrad, currently pursuing my B.Tech from Maharshi Dayanand University.  
-I love building scalable full-stack applications, automating workflows, and experimenting with AI tools.  
-My goal is to solve real-world problems by merging clean code, smart design, and modern technology.
+I build high-performance web apps, automate workflows, and love crafting elegant UIs backed by powerful APIs.  
+Currently exploring AI, serverless tools, and next-gen dev stacks. Let’s connect and build something awesome!
 </p>
 
 ---
@@ -31,7 +30,6 @@ My goal is to solve real-world problems by merging clean code, smart design, and
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs)
 ![RESTful API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -53,17 +51,18 @@ My goal is to solve real-world problems by merging clean code, smart design, and
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iaman011&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iaman011&layout=compact&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iaman011&layout=compact&card_width=400&theme=dracula&hide_border=false" height="150" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iaman011&style=flat-square&color=blue" alt="GitHub Profile Views" />
+</p>
 
 ---
 
 ### 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iaman011/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iaman011)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iaman.singh011@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/iaman011)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-portfolio-iaman011s-projects.vercel.app/)
-
-
-
