@@ -56,10 +56,12 @@
 
 ### 🚀 Featured Projects
 
+- 📚 [Learning Management System](https://github.com/iaman011/LMS.git) - Full-stack Learning Management System with payments & role-based access
 - 🧠 [AI Finance Platform](https://ai-finance-platform-iaman011s-projects.vercel.app/) – AI-powered receipt & transaction automation  
 - 🛍️ [E-Commerce Web App](https://e-commerce-nextjs-iaman011s-projects.vercel.app/) – Scalable, Stripe-integrated frontend  
 - 🚗 [Uber Clone Backend](https://github.com/iaman011/Uber-Clone-App) – Secure, role-based Express backend  
-- 🤖 [AI Code Reviewer](https://github.com/iaman011/AI-Powered-Code-Reviewer) – Gemini AI-based bug detection tool  
+- 🤖 [AI Code Reviewer](https://github.com/iaman011/AI-Powered-Code-Reviewer) – Gemini AI-based bug detection tool
+- 🔄 [RealTime Data Sync](https://github.com/iaman011/CareEco-Technologies.git) - Syncs local and cloud (MongoDB) data in real-time using Node.js, Express & cron-based updates.
 - 📝 [Paste App](https://paste-app-di7v-iaman011s-projects.vercel.app/) – Rich-text editor with Redux & local persistence
 
 <!--
