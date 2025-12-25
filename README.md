@@ -85,8 +85,33 @@
 
 ### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iaman011/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iaman.singh011@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/iaman011)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-portfolio-iaman011s-projects.vercel.app/)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/iaman011/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" /><br>
+        <b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:iaman.singh011@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" /><br>
+        <b>Gmail</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/iaman011" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" /><br>
+        <b>Discord</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://aman-portfolio-iaman011s-projects.vercel.app/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vercel" /><br>
+        <b>Portfolio</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
