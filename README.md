@@ -83,3 +83,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iaman.singh011@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/iaman011)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-portfolio-iaman011s-projects.vercel.app/)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,linux,react,nextjs,nodejs,express,tailwind,mongodb,mysql,git,github,githubactions,docker,jenkins,kubernetes,terraform&theme=dark" />
+</p>
