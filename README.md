@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! I'm Aman Singh</h1>
-<h3 align="center">A passionate Full-Stack Developer & Automation Enthusiast from <img src="https://flagcdn.com/w40/in.png" width="22" alt="India"/> </h3>
+<h3 align="center">A passionate Full-Stack Developer & DevOps Enthusiast from <img src="https://flagcdn.com/w40/in.png" width="22" alt="India"/> </h3>
 
 <!-- 🎯 GitHub Profile Stats & Badges -->
 
