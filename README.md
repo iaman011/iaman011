@@ -87,3 +87,39 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,linux,react,nextjs,nodejs,express,tailwind,mongodb,mysql,git,github,githubactions,docker,jenkins,kubernetes,terraform&theme=dark" />
 </p>
+
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br><b>C++</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br><b>Python</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br><b>JavaScript</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br><b>TypeScript</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" /><br><b>Linux (Bash)</b></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br><b>React</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br><b>Next.js</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br><b>Node.js</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" /><br><b>Express.js</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br><b>Tailwind CSS</b></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br><b>MongoDB</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br><b>MySQL</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br><b>Git</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br><b>GitHub</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" /><br><b>GitHub Actions</b></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br><b>Docker</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jenkins" /><br><b>Jenkins</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" /><br><b>Kubernetes</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=terraform" /><br><b>Terraform</b></td>
+  </tr>
+</table>
+
