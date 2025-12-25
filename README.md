@@ -26,29 +26,37 @@
 
 ## 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20(Bash)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br><b>C++</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br><b>Python</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br><b>JavaScript</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br><b>TypeScript</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" /><br><b>Linux</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br><b>React</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br><b>Next.js</b></td>
+  </tr>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br><b>Node.js</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" /><br><b>Express</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br><b>Tailwind</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br><b>MongoDB</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br><b>MySQL</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br><b>Git</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br><b>GitHub</b></td>
+  </tr>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD_Pipelines-0A0A0A?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" /><br><b>Actions</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br><b>Docker</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jenkins" /><br><b>Jenkins</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" /><br><b>Kubernetes</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=terraform" /><br><b>Terraform</b></td>
+  </tr>
+</table>
 
 
 ---
